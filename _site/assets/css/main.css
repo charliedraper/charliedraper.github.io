@@ -1,4 +1,6 @@
 body {
+    background-color: #232323;
+    color: rgb(10, 140, 120);
     margin: 60px auto;
     width: 70%;
 }
@@ -14,22 +16,26 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: rgb(5, 71, 172);
+    color: #fff;
 }
 a:hover {
     text-decoration: underline;
 }
+.current-link {
+    color: rgb(152, 96, 167);
+}
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: rgb(0, 226, 170);
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
+    color: rgb(10, 140, 120);
 }
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 1px solid #fff;
     font-size: .8em;
 }
 
