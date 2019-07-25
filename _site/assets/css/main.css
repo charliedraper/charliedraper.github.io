@@ -1,6 +1,6 @@
 body {
-    background-color: #232323;
-    color: rgb(10, 140, 120);
+    background-color: #ffffff;
+    color: rgb(0, 63, 54);
     margin: 60px auto;
     width: 70%;
 }
@@ -16,26 +16,25 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #fff;
+    color: rgb(0, 0, 0);
 }
 a:hover {
     text-decoration: underline;
 }
 .current-link {
-    color: rgb(152, 96, 167);
+    color: rgb(211, 113, 238);
 }
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: rgb(0, 226, 170);
+    color: rgb(0, 160, 120);
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: rgb(10, 140, 120);
 }
 footer {
-    border-top: 1px solid #fff;
+    border-top: 1px solid rgb(0, 0, 0);
     font-size: .8em;
 }
 
