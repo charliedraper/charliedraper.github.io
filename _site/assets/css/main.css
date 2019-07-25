@@ -1,6 +1,6 @@
 body {
     background-color: #ffffff;
-    color: rgb(0, 63, 54);
+    color: rgb(5, 80, 69);
     margin: 60px auto;
     width: 70%;
 }
@@ -15,11 +15,12 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 a {
-    text-decoration: none;
-    color: rgb(0, 0, 0);
+    text-decoration: underline;
+    color: #000;
 }
 a:hover {
     text-decoration: underline;
+    color: #444;
 }
 .current-link {
     color: rgb(211, 113, 238);
@@ -33,29 +34,34 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
 }
+header {
+    border-bottom: 1px solid #000;
+}
 footer {
-    border-top: 1px solid rgb(0, 0, 0);
+    border-top: 1px solid #000;
     font-size: .8em;
 }
-
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size: 1.25em;
 }
-
 ul.posts li {
     list-style: none;
+    
 }
-
 ul.projects { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size: 1.25em;
 }
-
 ul.projects li {
     list-style: none;
 }
-
 ul li {
-    font-size: 1.5em
+    font-size: 1.5em;
+}
+img {
+    margin: 8px 8px;
+}
+img.right {
+    float: right;
 }
