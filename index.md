@@ -3,9 +3,7 @@ layout: default
 title: Charlie Draper
 ---
 <img src="/assets/images/general/charlie-draper-img.jpg" class="right" width="220" height="220">
-# {{ page.title }}
 <h1>About Me</h1>
-
 My name is Charlie Draper, and I'm a third year computer science major at the University of Florida.
 Additionally, I'm pursuing a minor in Business Administration. My main hobbies include:
 - Coding
