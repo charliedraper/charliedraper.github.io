@@ -17,9 +17,7 @@ My other interests include:
 - Jeopardy
 - Cats
 
-Currently, I am working as a Software Development Intern at Haneke Design. Haneke Design is a design
-and development company that specializes in mobile and web applications. I'm returning to university
-soon, so look out for new content and updates!
+I have just recently completed a Software Development Internship at Haneke Design, and I am now back taking classes at the University of Florida. Check out my blog posts to see the kinds of classes that I'm taking and what else I'm up to!
 
 Social Medias:  
 [<img src="/assets/images/social-medias/LI-In-Bug.png" alt="LinkedIn:" height="42" width="42">][linkedin-link]
